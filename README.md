@@ -55,7 +55,6 @@ The Flask API exposes the following endpoint:
 
 ## Technologies Used
 - Python: Backend logic using Flask.
-- Flask: A lightweight web framework for the API.
 - MongoDB: A NoSQL database for storing user data.
 - Docker: Containerization for both the Flask app and MongoDB instance.
 - PyMongo: MongoDB driver for Python.
