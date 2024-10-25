@@ -2,15 +2,6 @@
 
 This project is a simple Python application demonstrating data masking while fetching data from a MongoDB instance. It is built with Flask and connected to MongoDB using Docker containers. The data is fetched from MongoDB and masked before being returned via a Flask API.
 
-## Table of Contents
-
-- [Project Setup](#project-setup)
-- [Docker Setup](#docker-setup)
-- [MongoDB Initialization](#mongodb-initialization)
-- [Flask API Endpoints](#flask-api-endpoints)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-
 ## Project Setup
 
 1. **Install Docker**: Make sure you have Docker installed on your system. You can download it from [Docker's official website](https://www.docker.com/).
