@@ -24,11 +24,11 @@ The project uses Docker Compose to create and manage the containers for both the
 
 1. **Build and Run Containers**: Ensure Docker is running, then use the following command to build and start the services:
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 2. **Access the Flask Application**: Once the containers are up, access the Flask app via:
 ```bash
-http://localhost:5001
+http://localhost:5001/users
 ```
 
 The default port is 5001, but you can change it in `docker-compose.yml` if needed.
